@@ -1,0 +1,2 @@
+webpackJsonp([4],{BTMg:function(t,e){},Z0wI:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("Fourth里的页面一")])},staticRenderFns:[]};var u=n("C7Lr")({data:function(){return{}},methods:{}},r,!1,function(t){n("BTMg")},"data-v-f4842c42",null);e.default=u.exports}});
+//# sourceMappingURL=4.5cf9e09acfe8742c5765.js.map
