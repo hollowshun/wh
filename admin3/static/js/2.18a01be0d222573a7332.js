@@ -1,0 +1,2 @@
+webpackJsonp([2],{"3BbJ":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("div",[this._v("222")]),this._v(" "),e("router-link",{attrs:{to:"/Second/page2Dtl"}},[e("el-button",[this._v("跳转详情页面")])],1)],1)},staticRenderFns:[]};var i=n("VU/8")({data:function(){return{}},methods:{}},r,!1,function(t){n("UvMW")},"data-v-d41e5264",null);e.default=i.exports},UvMW:function(t,e){}});
+//# sourceMappingURL=2.18a01be0d222573a7332.js.map
