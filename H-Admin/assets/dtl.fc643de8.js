@@ -1,0 +1,1 @@
+import{n,l as t,G as o,y as a,Y as s,x as r}from"./index.b9a7eb32.js";const _=n({__name:"dtl",setup(l){const e=t("\u8BE6\u60C5\u9875");return o(()=>{}),(u,c)=>(r(),a("div",null,s(e.value),1))}});export{_ as default};
