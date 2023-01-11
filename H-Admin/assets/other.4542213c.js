@@ -1,0 +1,1 @@
+import{d as a,r as o,o as t,i as n,f as r,ab as s}from"./index.4e28b913.js";const _=a({__name:"other",setup(u){const e=o("other\u72EC\u6709\u7684");return t(()=>{}),(c,p)=>(n(),r("div",null,s(e.value),1))}});export{_ as default};
